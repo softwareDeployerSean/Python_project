@@ -11,5 +11,5 @@ maxrate = 0.28 - 0.1 * personSex
 result = minrate < bodyfat < maxrate
 # 3.输出
 print('您的体脂率%.2f' % bodyfat, result)
-#测试本地commit   测试本地commit1   测试本地commit3
+#测试本地commit   测试本地commit1   测试本地commit3   测试本地commit4   测试命令行工具
 
